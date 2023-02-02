@@ -1,0 +1,38 @@
+{
+  "hotkeys": [
+    {
+      "command": "obsidian-excalidraw-plugin:excalidraw-autocreate-on-current",
+      "chords": [
+        "A-Period",
+        "KeyN",
+        "KeyD"
+      ]
+    },
+    {
+      "command": "obsidian-audio-notes:create-new-audio-note-with-new-file",
+      "chords": [
+        "A-Period",
+        "KeyN",
+        "KeyA"
+      ]
+    },
+    {
+      "command": "obsidian-excalidraw-plugin:excalidraw-autocreate-and-embed-on-current",
+      "chords": [
+        "C-S-KeyX"
+      ]
+    },
+    {
+      "command": "obsidian-excalidraw-plugin:script-jp-align-horiz",
+      "chords": [
+        "A-KeyA"
+      ]
+    },
+    {
+      "command": "obsidian-excalidraw-plugin:Downloaded/Fixed vertical distance",
+      "chords": [
+        "A-KeyV"
+      ]
+    }
+  ]
+}

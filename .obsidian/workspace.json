@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docs/log.md",
+                "file": "Docs/apps&links.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docs/log.md",
+                "file": "Docs/apps&links.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docs/log.md"
+                "file": "Docs/apps&links.md"
               }
             }
           },
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docs/log.md",
+                "file": "Docs/apps&links.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -238,15 +238,15 @@
   },
   "active": "b49b1d6599958d34",
   "lastOpenFiles": [
-    "Docs/pip requiriments.md",
-    "Docs/log.md",
-    "Docs/Project Setup.md",
-    "Docs/Files/Pasted image 20230202170408.png",
+    "Daily/2023-02-03.md",
     "Docs/apps&links.md",
-    "Docs/Software Defelopment Process PDF.pdf",
+    "Docs/Project Setup.md",
     "Docs/Files/localsettings.md",
-    "borrar.md",
-    "localsettings.md",
-    "Excalidraw/Template.excalidraw.md"
+    "Docs/passwords.md",
+    "Docs/log.md",
+    "Docs/pip requiriments.md",
+    "Docs/Files/Pasted image 20230202170408.png",
+    "Docs/Software Defelopment Process PDF.pdf",
+    "borrar.md"
   ]
 }

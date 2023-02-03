@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "log",
+      "path": "Docs/log.md"
+    },
+    {
+      "basename": "pip requiriments",
+      "path": "Docs/pip requiriments.md"
+    },
+    {
+      "basename": "Project Setup",
+      "path": "Docs/Project Setup.md"
+    },
+    {
+      "basename": "apps&links",
+      "path": "Docs/apps&links.md"
+    },
+    {
+      "basename": "Software Defelopment Process PDF",
+      "path": "Docs/Software Defelopment Process PDF.pdf"
+    },
+    {
+      "basename": "localsettings",
+      "path": "Docs/Files/localsettings.md"
+    },
+    {
+      "basename": "borrar",
+      "path": "borrar.md"
+    },
+    {
       "basename": "Template.excalidraw",
       "path": "Excalidraw/Template.excalidraw.md"
     },

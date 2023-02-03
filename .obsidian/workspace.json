@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "a1a45d1d518dae07",
+        "id": "2465c0b06fcb796f",
         "type": "tabs",
         "children": [
           {
-            "id": "16b777c863386932",
+            "id": "b49b1d6599958d34",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Template.excalidraw.md"
+                "file": "Docs/log.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252
+    "width": 294.5
   },
   "right": {
     "id": "cc743baa1003ff2f",
@@ -100,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Template.excalidraw.md",
+                "file": "Docs/log.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Template.excalidraw.md"
+                "file": "Docs/log.md"
               }
             }
           },
@@ -173,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Template.excalidraw.md",
+                "file": "Docs/log.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -220,30 +222,31 @@
       "file-tree-alternative:File Tree Alternative Plugin": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
-      "breadcrumbs:Breadcrumbs Visualisation": false,
       "omnisearch:Omnisearch": false,
       "cmdr: Create a new drawing": false,
       "obsidian-gallery:Gallery": false,
       "open-vscode:VSCode": false,
       "obsidian-translator:Translate": false,
       "obsidian-camera:Obsidian Camera": false,
-      "hidden-folder-obsidian:Hidden Folders": false,
       "obsidian-textgenerator-plugin:Generate Text!": false,
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
-      "obsidian-file-cleaner:Clean files": false
+      "obsidian-file-cleaner:Clean files": false,
+      "periodic-notes:Open today": false,
+      "hidden-folder-obsidian:Hidden Folders": false,
+      "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "9c78fb13b9119639",
+  "active": "b49b1d6599958d34",
   "lastOpenFiles": [
-    "Excalidraw/EURUSD_draw_230109-140213.md",
-    "Daily/2023-02-01.md",
-    "Pasted image 20230112135847.png",
-    "Pasted Image 20230112123342_870.png",
-    "Pasted Image 20230112123237_524.png",
-    "Notes/Interview.md",
-    "Notes/Test.md",
-    "templates/Columns.md",
-    "templates/Daily.md",
-    "templates/note.md"
+    "Docs/pip requiriments.md",
+    "Docs/log.md",
+    "Docs/Project Setup.md",
+    "Docs/Files/Pasted image 20230202170408.png",
+    "Docs/apps&links.md",
+    "Docs/Software Defelopment Process PDF.pdf",
+    "Docs/Files/localsettings.md",
+    "borrar.md",
+    "localsettings.md",
+    "Excalidraw/Template.excalidraw.md"
   ]
 }

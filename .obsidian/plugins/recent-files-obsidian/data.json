@@ -1,8 +1,44 @@
 {
   "recentFiles": [
     {
+      "basename": "Temp note",
+      "path": "Notes/Temp note.md"
+    },
+    {
+      "basename": "wise",
+      "path": "Notes/wise.md"
+    },
+    {
+      "basename": "Credentials",
+      "path": "Notes/Credentials.md"
+    },
+    {
+      "basename": "Preguntas Fede",
+      "path": "Notes/Preguntas Fede.md"
+    },
+    {
+      "basename": "preguntas para Fede sobre Wise",
+      "path": "Excalidraw/preguntas para Fede sobre Wise.md"
+    },
+    {
+      "basename": "PD",
+      "path": "Notes/PD.md"
+    },
+    {
+      "basename": "ED-780",
+      "path": "Tickets/ED-780.md"
+    },
+    {
+      "basename": "2023-02-06",
+      "path": "2023-02-06.md"
+    },
+    {
       "basename": "apps&links",
       "path": "Docs/apps&links.md"
+    },
+    {
+      "basename": "Template.excalidraw",
+      "path": "Excalidraw/Template.excalidraw.md"
     },
     {
       "basename": "2023-02-03",
@@ -31,10 +67,6 @@
     {
       "basename": "borrar",
       "path": "borrar.md"
-    },
-    {
-      "basename": "Template.excalidraw",
-      "path": "Excalidraw/Template.excalidraw.md"
     },
     {
       "basename": "2023-02-01",
@@ -167,34 +199,6 @@
     {
       "basename": "EURUSD-230125.0042.excalidraw",
       "path": "Entries/Draws/EURUSD-230125.0042.excalidraw.md"
-    },
-    {
-      "basename": "EURUSD-230125.0042",
-      "path": "Entries/EURUSD-230125.0042.md"
-    },
-    {
-      "basename": "EURUSD-230124.2341.excalidraw",
-      "path": "Entries/Draws/EURUSD-230124.2341.excalidraw.md"
-    },
-    {
-      "basename": "EURUSD-230124.2341",
-      "path": "Entries/EURUSD-230124.2341.md"
-    },
-    {
-      "basename": "AUDUSD-230123.2201.excalidraw",
-      "path": "Entries/Draws/AUDUSD-230123.2201.excalidraw.md"
-    },
-    {
-      "basename": "AUDUSD-230123.2201",
-      "path": "Entries/AUDUSD-230123.2201.md"
-    },
-    {
-      "basename": "AUDUSD-230123.2141.excalidraw",
-      "path": "Entries/Draws/AUDUSD-230123.2141.excalidraw.md"
-    },
-    {
-      "basename": "AUDUSD-230123.2141",
-      "path": "Entries/AUDUSD-230123.2141.md"
     }
   ],
   "omittedPaths": [],

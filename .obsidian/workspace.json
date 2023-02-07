@@ -4,22 +4,81 @@
     "type": "split",
     "children": [
       {
-        "id": "2465c0b06fcb796f",
+        "id": "89f387ad7efb3727",
         "type": "tabs",
         "children": [
           {
-            "id": "b49b1d6599958d34",
+            "id": "901aa6f90d799634",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docs/apps&links.md",
+                "file": "Notes/Preguntas Fede.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "8a786163e45abe77",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Credentials.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ad19d6051cbed174",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Temp note.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3b9d52349dd83050",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tickets/ED-780.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "67f1976118f1d193",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/PD.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a9bd537230e9a682",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/preguntas para Fede sobre Wise.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +144,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 294.5
+    "width": 294.5,
+    "collapsed": true
   },
   "right": {
     "id": "cc743baa1003ff2f",
@@ -102,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docs/apps&links.md",
+                "file": "Notes/Temp note.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docs/apps&links.md"
+                "file": "Notes/Temp note.md"
               }
             }
           },
@@ -175,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docs/apps&links.md",
+                "file": "Notes/Temp note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -236,17 +296,17 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "b49b1d6599958d34",
+  "active": "ad19d6051cbed174",
   "lastOpenFiles": [
-    "Daily/2023-02-03.md",
+    "Notes/wise.md",
+    "Notes/Credentials.md",
+    "Notes/Preguntas Fede.md",
+    "Excalidraw/preguntas para Fede sobre Wise.md",
+    "Notes/PD.md",
+    "Tickets/ED-780.md",
+    "2023-02-06.md",
     "Docs/apps&links.md",
-    "Docs/Project Setup.md",
-    "Docs/Files/localsettings.md",
-    "Docs/passwords.md",
-    "Docs/log.md",
-    "Docs/pip requiriments.md",
-    "Docs/Files/Pasted image 20230202170408.png",
-    "Docs/Software Defelopment Process PDF.pdf",
-    "borrar.md"
+    "Excalidraw/Template.excalidraw.md",
+    "Excalidraw/BORRAR.excalidraw.md"
   ]
 }

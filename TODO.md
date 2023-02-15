@@ -1,0 +1,1 @@
+differenciate the inputs that has to be at least 3 characters to fill

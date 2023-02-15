@@ -1,204 +1,44 @@
 {
   "recentFiles": [
     {
-      "basename": "Temp note",
-      "path": "Notes/Temp note.md"
+      "basename": "TODO",
+      "path": "Notes/TODO.md"
     },
     {
-      "basename": "wise",
-      "path": "Notes/wise.md"
+      "basename": "ED-785 Regular Employee has an End Date for the Upgrade PD  end date should be grayed out",
+      "path": "Tickets/ED-785 Regular Employee has an End Date for the Upgrade PD  end date should be grayed out.md"
     },
     {
-      "basename": "Credentials",
-      "path": "Notes/Credentials.md"
+      "basename": "z-ticket",
+      "path": "templates/z-ticket.md"
     },
     {
-      "basename": "Preguntas Fede",
-      "path": "Notes/Preguntas Fede.md"
+      "basename": "2023-02-10",
+      "path": "2023-02-10.md"
     },
     {
-      "basename": "preguntas para Fede sobre Wise",
-      "path": "Excalidraw/preguntas para Fede sobre Wise.md"
+      "basename": "temp",
+      "path": "Notes/temp.md"
     },
     {
-      "basename": "PD",
-      "path": "Notes/PD.md"
+      "basename": "Doubts",
+      "path": "Notes/Doubts.md"
     },
     {
-      "basename": "ED-780",
-      "path": "Tickets/ED-780.md"
-    },
-    {
-      "basename": "2023-02-06",
-      "path": "2023-02-06.md"
-    },
-    {
-      "basename": "apps&links",
-      "path": "Docs/apps&links.md"
+      "basename": "TEST.excalidraw",
+      "path": "Excalidraw/TEST.excalidraw.md"
     },
     {
       "basename": "Template.excalidraw",
       "path": "Excalidraw/Template.excalidraw.md"
     },
     {
-      "basename": "2023-02-03",
-      "path": "Daily/2023-02-03.md"
+      "basename": "TEMP.excalidraw",
+      "path": "Excalidraw/TEMP.excalidraw.md"
     },
     {
-      "basename": "Project Setup",
-      "path": "Docs/Project Setup.md"
-    },
-    {
-      "basename": "passwords",
-      "path": "Docs/passwords.md"
-    },
-    {
-      "basename": "log",
-      "path": "Docs/log.md"
-    },
-    {
-      "basename": "pip requiriments",
-      "path": "Docs/pip requiriments.md"
-    },
-    {
-      "basename": "Software Defelopment Process PDF",
-      "path": "Docs/Software Defelopment Process PDF.pdf"
-    },
-    {
-      "basename": "borrar",
-      "path": "borrar.md"
-    },
-    {
-      "basename": "2023-02-01",
-      "path": "Daily/2023-02-01.md"
-    },
-    {
-      "basename": "Interview",
-      "path": "Notes/Interview.md"
-    },
-    {
-      "basename": "Columns",
-      "path": "templates/Columns.md"
-    },
-    {
-      "basename": "Daily",
-      "path": "templates/Daily.md"
-    },
-    {
-      "basename": "note",
-      "path": "templates/note.md"
-    },
-    {
-      "basename": "AUDUSD-230131.1424.excalidraw",
-      "path": "Entries/Draws/AUDUSD-230131.1424.excalidraw.md"
-    },
-    {
-      "basename": "AUDUSD-230131.1424",
-      "path": "Entries/AUDUSD-230131.1424.md"
-    },
-    {
-      "basename": "AUDUSD-230131.1322.excalidraw",
-      "path": "Entries/Draws/AUDUSD-230131.1322.excalidraw.md"
-    },
-    {
-      "basename": "AUDUSD-230131.1322",
-      "path": "Entries/AUDUSD-230131.1322.md"
-    },
-    {
-      "basename": "EURJPY-230130.2157.excalidraw",
-      "path": "Entries/Draws/EURJPY-230130.2157.excalidraw.md"
-    },
-    {
-      "basename": "EURJPY-230130.2157",
-      "path": "Entries/EURJPY-230130.2157.md"
-    },
-    {
-      "basename": "EURJPY-230130.1713.excalidraw",
-      "path": "Entries/Draws/EURJPY-230130.1713.excalidraw.md"
-    },
-    {
-      "basename": "DUDAS.excalidraw",
-      "path": "Excalidraw/DUDAS.excalidraw.md"
-    },
-    {
-      "basename": "EURUSD-230130.1355.excalidraw",
-      "path": "Entries/Draws/EURUSD-230130.1355.excalidraw.md"
-    },
-    {
-      "basename": "EURUSD-230130.1355",
-      "path": "Entries/EURUSD-230130.1355.md"
-    },
-    {
-      "basename": "EURJPY-230130.1154.excalidraw",
-      "path": "Entries/Draws/EURJPY-230130.1154.excalidraw.md"
-    },
-    {
-      "basename": "EURJPY-230130.1154",
-      "path": "Entries/EURJPY-230130.1154.md"
-    },
-    {
-      "basename": "EURJPY-230130.1153",
-      "path": "Entries/EURJPY-230130.1153.md"
-    },
-    {
-      "basename": "empty files",
-      "path": "empty files.md"
-    },
-    {
-      "basename": "Entry",
-      "path": "templates/Entry.md"
-    },
-    {
-      "basename": "broken links output",
-      "path": "broken links output.md"
-    },
-    {
-      "basename": "EURJPY-230122.2238.excalidraw",
-      "path": "Entries/Draws/EURJPY-230122.2238.excalidraw.md"
-    },
-    {
-      "basename": "EURJPY-230126.1658.excalidraw",
-      "path": "Entries/Draws/EURJPY-230126.1658.excalidraw.md"
-    },
-    {
-      "basename": "EURJPY-230126.1658",
-      "path": "Entries/EURJPY-230126.1658.md"
-    },
-    {
-      "basename": "EURJPY-230126.1640.excalidraw",
-      "path": "Entries/Draws/EURJPY-230126.1640.excalidraw.md"
-    },
-    {
-      "basename": "EURJPY-230126.1640",
-      "path": "Entries/EURJPY-230126.1640.md"
-    },
-    {
-      "basename": "EURJPY-230126.1243.excalidraw",
-      "path": "Entries/Draws/EURJPY-230126.1243.excalidraw.md"
-    },
-    {
-      "basename": "EURJPY-230126.1243",
-      "path": "Entries/EURJPY-230126.1243.md"
-    },
-    {
-      "basename": "EURJPY.excalidraw",
-      "path": "Analysis/EURJPY.excalidraw.md"
-    },
-    {
-      "basename": "Pasted Image 20230126120944_874",
-      "path": "pastedImages/Pasted Image 20230126120944_874.png"
-    },
-    {
-      "basename": "Entry Type 2_draw_230113-234145",
-      "path": "pastedImages/Entry Type 2_draw_230113-234145.md"
-    },
-    {
-      "basename": "Entry Types_draw_230113-224354",
-      "path": "pastedImages/Entry Types_draw_230113-224354.md"
-    },
-    {
-      "basename": "EURUSD-230125.0042.excalidraw",
-      "path": "Entries/Draws/EURUSD-230125.0042.excalidraw.md"
+      "basename": "ED-790 Error messages at the botton is not clear",
+      "path": "Tickets/ED-790 Error messages at the botton is not clear.md"
     }
   ],
   "omittedPaths": [],

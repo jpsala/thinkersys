@@ -22,7 +22,6 @@
   "settings-search",
   "auto-note-mover",
   "obsidian-core-search-assistant-plugin",
-  "mousewheel-image-zoom",
   "obsidian-better-command-palette",
   "open-vscode",
   "obsidian-list-callouts",
@@ -52,5 +51,6 @@
   "nuke-orphans",
   "obsidian-user-plugins",
   "text-extractor",
-  "periodic-notes"
+  "periodic-notes",
+  "obsidian-image-toolkit"
 ]
